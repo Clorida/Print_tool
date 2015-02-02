@@ -46,6 +46,7 @@ svgedit.getReverseNS = function() {
         return this
     }
 })();
+//test
 jQuery && function() {
     var a = $(window),
         I = $(document);
